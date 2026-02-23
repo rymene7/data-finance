@@ -1,1 +1,1 @@
-My First React.js + Vite + tailwinCSS FrontEnd Project : data-finance !
+My First React.js + Vite + tailwinCSS FrontEnd Project : https://data-finance--rymene7.replit.app/
